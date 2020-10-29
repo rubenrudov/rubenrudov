@@ -2,7 +2,7 @@
 ### I'm a fullstack mobile app developer and UI/UX designer :iphone: 
 
 My specialities:
-- Mobile app developing and designing for Android (Java). :iphone:
-- Mobile app developing and designing for cross platform (Dart & Flutter). :iphone:
-- Website design with pure css and bootstrap. :computer:
-- Python, C#, C programming. :code:
+- Mobile app developing and designing for Android (Java) :iphone:
+- Mobile app developing and designing for cross platform (Dart & Flutter) :iphone:
+- Website design with pure css and bootstrap :computer:
+- Python, C#, C programming :computer:
