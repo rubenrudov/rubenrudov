@@ -4,4 +4,4 @@
 My specialities:
 - Mobile full stack developing (Android and cross platform)
 - UI/UX design
-- Web design
+- Team working
