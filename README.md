@@ -3,5 +3,6 @@
 
 My specialities:
 - Mobile full stack developing (Android and cross platform)
+- Java programming
 - UI/UX design
 - Team working
