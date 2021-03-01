@@ -4,5 +4,6 @@
 
 My specialities:
 - Android full stack developing 
-- Material and custom design with Android and ReactJS 
+- Material and custom design for Android apps
+- Web design 
 - Team working
