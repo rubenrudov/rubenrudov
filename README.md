@@ -3,6 +3,6 @@
 ### My main development stack is: Android studio, Java, Python and NoSQL databases (MongoDB & Firebase)
 
 My specialities:
-- Mobile full stack developing (Android native and cross platform)
-- Material and custom design for android
+- Android full stack developing 
+- Material and custom design with Android and ReactJS 
 - Team working
