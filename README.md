@@ -2,7 +2,7 @@
 ## I'm a fullstack mobile app developer :iphone: 
 ### My main development stack is: Android studio, Java, Python and NoSQL databases
 My specialities:
-- Android full stack developing 
+- Android full-stack developing 
+- Frontend web developing
 - Material and custom design for Android apps
-- Web design 
 - Team working
