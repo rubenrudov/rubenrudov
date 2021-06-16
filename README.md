@@ -1,8 +1,6 @@
-# Hello everyone, I'm Ruben (Ruby) Rudov :smiley: :fire:
-## I'm a fullstack mobile app developer :iphone: 
-### My main development stack is: Android studio, Java, Python and NoSQL databases
-My specialities:
-- Android full-stack developing 
-- Frontend web developing
-- Material and custom design for Android apps
-- Team working
+# Hello everyone, I'm Ruben (Ruby) Rudov :smiley: :fire: and welcome to my GitHub feed.
+
+### The main content here will be:
+ - Java Android programming
+ - React & JS web programming
+ - Python programming
