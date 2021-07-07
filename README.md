@@ -2,5 +2,5 @@
 
 ### The main content here will be:
  - Java Android programming
- - React & JS web programming
  - Python programming
+ - Web development with ReactJS
