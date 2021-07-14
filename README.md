@@ -1,6 +1,7 @@
-# Hello everyone, I'm Ruben (Ruby) Rudov :smiley: :fire: and welcome to my GitHub feed.
+# Hello everyone, I'm Ruben Rudov :smiley: :fire:
 
-### The main content here will be:
- - Java Android programming
- - Python programming
- - Web development with ReactJS
+### My main interests are: Android development and Python programming
+
+## I can also:
+- Build websites using HTML, CSS, React & Firebase
+- Use SQL & NoSQL databases (Sqlite, SQL server, Firebase, MongoDB)
