@@ -1,6 +1,6 @@
 ### Hi there, I'm Ruby :smiley: :fire:
 
-- 💬 Feel free ti ask me about backend development, software architectures and product design.
+- 💬 Feel free to ask me about backend development, software architectures and product design.
 - 📫 You can reach me at: Linkedin, Github and Gmail.
 - ⚡ Fun fact: I really like sports and traveling anywhere, anytime
 
